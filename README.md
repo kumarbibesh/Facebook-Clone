@@ -6,5 +6,5 @@ A Facebook clone built using HTML, CSS and Javascript
 
 ## Demo
 
-Insert gif or link to demo
+https://nexaconnect.netlify.app/
 
